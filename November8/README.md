@@ -1,4 +1,7 @@
 #### Propose an idea for a robot play or a scene from a play
+![Aaron Swartz](https://github.com/JimmyXwtx/Perforaming_Robots/blob/main/November8/232323.jpg)
+I want to build two robots, as shown in the picture, two robots look the same. Then keep circling and keep chasing each other. Then while chasing, the robots will keep shaking their arms and never stop.
+This scenario can actually be used to discuss the relationship between a human and a robot. Robots are always constantly executing commands from humans. When they receive a command to turn in a circle, they keep turning in a circle. For themselves, they only know that they are spinning. But for humans, we feel that they are chasing each other. But then they can't reach each other. People's code puts robots in a bind. But the robots never felt it, the people felt it.
 
 #### Reading Response
 
